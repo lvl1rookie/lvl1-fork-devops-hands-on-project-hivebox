@@ -53,3 +53,7 @@ Here is a pre-start checklist:
 ## Implementation
 
 ** ADD YOUR IMPLEMENTATION DOCUMENTATION HERE **
+
+testing with coordinates
+may 18
+
