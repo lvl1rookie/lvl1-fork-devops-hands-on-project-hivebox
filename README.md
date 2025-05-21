@@ -53,3 +53,10 @@ Here is a pre-start checklist:
 ## Implementation
 
 ** ADD YOUR IMPLEMENTATION DOCUMENTATION HERE **
+
+Attempt 3 at pull request in fork. 
+
+Coordinates
+https://opensensemap.org/explore/5eba5fbad46fb8001b799786
+https://opensensemap.org/explore/5c21ff8f919bf8001adf2488
+https://opensensemap.org/explore/5ade1acf223bd80019a1011c
